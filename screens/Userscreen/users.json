@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "username": "janed",
+        "email": "jane@doe.com"
+    },
+    {
+        "id": "2",
+        "firstName": "John",
+        "lastName": "Doe",
+        "username": "johnd",
+        "email": "john@doe.com"
+    },
+    {
+        "id": "3",
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "username": "alices",
+        "email": "alice@smith.com"
+    },
+    {
+        "id": "4",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "username": "bobj",
+        "email": "bob@johnson.com"
+    },
+    {
+        "id": "5",
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "username": "charlieb",
+        "email": "charlie@brown.com"
+    },
+    {
+        "id": "6",
+        "firstName": "David",
+        "lastName": "Miller",
+        "username": "davidm",
+        "email": "david@miller.com"
+    },
+    {
+        "id": "7",
+        "firstName": "Eve",
+        "lastName": "Martin",
+        "username": "evem",
+        "email": "eve@martin.com"
+    },
+    {
+        "id": "8",
+        "firstName": "Frank",
+        "lastName": "Taylor",
+        "username": "frankt",
+        "email": "frank@taylor.com"
+    }
+]
