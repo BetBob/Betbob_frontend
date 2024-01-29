@@ -1,0 +1,82 @@
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        padding: 20,
+        backgroundColor: "purple",
+    },
+    headerText: {
+        fontSize: 24,
+        textAlign: "center",
+        margin: 10,
+        fontWeight: "bold",
+        color: "#333",
+    },
+    tableRow: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center",
+        padding: 10,
+        borderBottomWidth: 1,
+        borderBottomColor: "#ccc",
+        borderRadius: 10,
+    },
+    tableCell: {
+        flex: 1,
+        fontSize: 10,
+        color: "#333",
+        textAlign: "center",
+        fontStyle: "italic",
+    },
+    headerCell: {
+        flex: 1,
+        fontSize: 10,
+        color: "#333",
+        textAlign: "center",
+        fontStyle: "italic",
+    },
+    headerRow: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        padding: 10,
+        backgroundColor: "orange",
+        borderBottomWidth: 2,
+        borderColor: "#333",
+        marginTop: 25,
+        borderRadius: 10,
+    },
+    tableRow: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        padding: 10,
+        backgroundColor: "yellow",
+        borderBottomWidth: 1,
+        borderColor: "#000",
+        borderRadius: 10,
+    },
+    logoTouchable: {
+        position: "absolute",
+        top: 0,
+        left: 0,
+        width: 80,
+        height: 80,
+        zIndex: 1,
+    },
+    logo: {
+        width: "100%",
+        height: "100%",
+    },
+    logoOpenTouchable: {
+        position: "absolute",
+        top: 0,
+        right: 0,
+        width: 80,
+        height: 80,
+        zIndex: 1,
+    },
+    logoOpen: {
+        width: "100%",
+        height: "100%",
+    },
+});
